@@ -1,0 +1,19 @@
+# Ignore everything by default
+*
+
+# Keep .gitignore itself
+!/.gitignore
+
+# Keep README at the project root
+!/readme.md
+
+# Keep Jupyter notebooks at the project root only
+!/*.ipynb
+
+# Keep everything under src/
+!/src/
+!/src/**
+
+# Keep everything under output/
+!/output/
+!/output/**
