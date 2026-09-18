@@ -13,6 +13,8 @@
 # Keep everything under src/
 !/src/
 !/src/**
+!/pseudopipe
+!/pseudopipe/**
 
 # Keep everything under output/
 !/output/
